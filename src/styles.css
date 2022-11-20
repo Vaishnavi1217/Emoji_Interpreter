@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+span {
+  padding: 2rem;
+  font-size: larger;
+  display: inline;
+  cursor: pointer;
+}
+input {
+  width: 350px;
+  height: 2rem;
+  padding-left: 1rem;
+}
+#meaning {
+  padding-top: 1rem;
+  font-weight: bold;
+}
